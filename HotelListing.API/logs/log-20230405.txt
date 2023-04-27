@@ -1,0 +1,41 @@
+2023-04-05 00:04:54.038 +01:00 [INF] HTTP GET /api/Countries responded 401 in 68.2484 ms
+2023-04-05 00:06:01.532 +01:00 [INF] HTTP GET /api/Countries/2 responded 401 in 9.1276 ms
+2023-04-05 00:06:11.643 +01:00 [INF] HTTP GET /api/Countries responded 401 in 3.9402 ms
+2023-04-05 00:08:26.497 +01:00 [INF] Now listening on: https://localhost:7004
+2023-04-05 00:08:26.732 +01:00 [INF] Now listening on: http://localhost:5014
+2023-04-05 00:08:26.751 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-05 00:08:26.758 +01:00 [INF] Hosting environment: Development
+2023-04-05 00:08:26.762 +01:00 [INF] Content root path: C:\Users\Oluwafemi.Dally\Desktop\DOTNET\HotelListing\
+2023-04-05 00:10:37.229 +01:00 [INF] HTTP GET /api/Countries responded 200 in 5427.3034 ms
+2023-04-05 00:10:50.487 +01:00 [INF] HTTP DELETE /api/Countries/1 responded 401 in 121.3111 ms
+2023-04-05 00:13:44.481 +01:00 [INF] HTTP POST /api/User/login responded 200 in 1395.9292 ms
+2023-04-05 00:16:33.919 +01:00 [INF] Now listening on: https://localhost:7004
+2023-04-05 00:16:34.145 +01:00 [INF] Now listening on: http://localhost:5014
+2023-04-05 00:16:34.162 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-05 00:16:34.166 +01:00 [INF] Hosting environment: Development
+2023-04-05 00:16:34.168 +01:00 [INF] Content root path: C:\Users\Oluwafemi.Dally\Desktop\DOTNET\HotelListing\
+2023-04-05 00:19:04.778 +01:00 [INF] HTTP POST /api/Countries responded 401 in 73.3635 ms
+2023-04-05 00:19:55.412 +01:00 [INF] HTTP POST /api/Countries responded 401 in 28.1589 ms
+2023-04-05 00:20:30.173 +01:00 [INF] HTTP POST /api/Countries responded 401 in 2.5204 ms
+2023-04-05 00:21:01.192 +01:00 [INF] HTTP POST /api/Countries responded 401 in 1.0090 ms
+2023-04-05 00:22:30.027 +01:00 [INF] HTTP POST /api/User/login responded 200 in 4329.4247 ms
+2023-04-05 00:22:35.142 +01:00 [INF] HTTP POST /api/User/login responded 200 in 207.8887 ms
+2023-04-05 00:23:32.219 +01:00 [INF] HTTP POST /api/Countries responded 401 in 0.3516 ms
+2023-04-05 00:24:32.178 +01:00 [INF] HTTP POST /api/Countries responded 401 in 117.5774 ms
+2023-04-05 00:25:12.168 +01:00 [INF] HTTP POST /api/Countries responded 401 in 0.8259 ms
+2023-04-05 00:25:52.819 +01:00 [INF] HTTP POST /api/Countries responded 401 in 0.6593 ms
+2023-04-05 00:28:31.650 +01:00 [INF] HTTP POST /api/Countries responded 401 in 2.2174 ms
+2023-04-05 00:29:43.305 +01:00 [INF] HTTP POST /api/Countries responded 401 in 0.6638 ms
+2023-04-05 00:30:10.795 +01:00 [INF] HTTP POST /api/User/login responded 200 in 95.2156 ms
+2023-04-05 00:30:13.413 +01:00 [INF] HTTP POST /api/User/login responded 200 in 24.3475 ms
+2023-04-05 00:31:21.686 +01:00 [INF] HTTP POST /api/Countries responded 401 in 0.9138 ms
+2023-04-05 00:32:43.200 +01:00 [INF] HTTP POST /api/Countries responded 401 in 0.8285 ms
+2023-04-05 00:32:52.101 +01:00 [INF] HTTP POST /api/Countries responded 401 in 1.3419 ms
+2023-04-05 00:39:56.945 +01:00 [INF] HTTP POST /api/User/login responded 200 in 53.7409 ms
+2023-04-05 00:40:39.089 +01:00 [INF] HTTP POST /api/Countries responded 201 in 246.5851 ms
+2023-04-05 00:41:13.165 +01:00 [INF] HTTP GET /api/Countries responded 200 in 59.5762 ms
+2023-04-05 00:41:24.514 +01:00 [INF] HTTP GET /api/Countries responded 200 in 8.4745 ms
+2023-04-05 00:41:51.659 +01:00 [INF] HTTP GET /api/Countries responded 200 in 11.1532 ms
+2023-04-05 00:46:37.538 +01:00 [INF] HTTP GET /api/Countries responded 200 in 35.5228 ms
+2023-04-05 00:46:52.275 +01:00 [INF] HTTP POST /api/Countries responded 401 in 0.6860 ms
+2023-04-05 00:56:21.792 +01:00 [INF] HTTP POST /api/User/register responded 200 in 544.5766 ms

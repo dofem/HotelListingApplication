@@ -1,0 +1,37 @@
+2023-04-07 00:00:03.780 +01:00 [ERR] HTTP GET /api/Countries/662 responded 500 in 16.6978 ms
+HotelListing.API.Exception.NotFoundException: GetCountry(662) was not found
+   at HotelListing.API.Controllers.CountriesController.GetCountry(Int32 id) in C:\Users\Oluwafemi.Dally\Desktop\DOTNET\HotelListing\Controllers\CountriesController.cs:line 51
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-04-07 00:00:03.794 +01:00 [ERR] Something went wrong in processing /api/Countries/662
+2023-04-07 00:30:08.852 +01:00 [INF] Now listening on: https://localhost:7004
+2023-04-07 00:30:08.919 +01:00 [INF] Now listening on: http://localhost:5014
+2023-04-07 00:30:08.924 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-07 00:30:08.925 +01:00 [INF] Hosting environment: Development
+2023-04-07 00:30:08.926 +01:00 [INF] Content root path: C:\Users\Oluwafemi.Dally\Desktop\DOTNET\HotelListing\
+2023-04-07 00:30:38.265 +01:00 [INF] HTTP GET /WeatherForecast responded 200 in 74.2229 ms
+2023-04-07 00:32:00.804 +01:00 [INF] HTTP GET /WeatherForecast responded 400 in 4.0478 ms
+2023-04-07 00:32:23.139 +01:00 [INF] HTTP GET /WeatherForecast responded 200 in 5.1992 ms
+2023-04-07 00:32:31.360 +01:00 [INF] HTTP GET /WeatherForecast responded 400 in 0.3789 ms
+2023-04-07 00:34:13.933 +01:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.7468 ms
+2023-04-07 00:34:20.519 +01:00 [INF] HTTP GET /WeatherForecast responded 400 in 0.4749 ms
+2023-04-07 00:34:38.723 +01:00 [INF] HTTP GET /WeatherForecast responded 400 in 0.3229 ms
+2023-04-07 00:37:37.918 +01:00 [INF] Now listening on: https://localhost:7004
+2023-04-07 00:37:38.002 +01:00 [INF] Now listening on: http://localhost:5014
+2023-04-07 00:37:38.007 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-07 00:37:38.008 +01:00 [INF] Hosting environment: Development
+2023-04-07 00:37:38.009 +01:00 [INF] Content root path: C:\Users\Oluwafemi.Dally\Desktop\DOTNET\HotelListing\
+2023-04-07 00:37:55.174 +01:00 [INF] HTTP GET /WeatherForecast responded 200 in 70.4776 ms
+2023-04-07 00:38:02.288 +01:00 [INF] HTTP GET /WeatherForecast responded 400 in 15.7831 ms
